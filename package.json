@@ -1,0 +1,13 @@
+{
+  "name": "githubdeployments-node-example",
+  "version": "1.0.0",
+  "description": "An example package.json file",
+  "scripts": {
+    "minify-css": "css-minify -f style.css -o css"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "css-minify": "^2.0.0"
+  }
+}
